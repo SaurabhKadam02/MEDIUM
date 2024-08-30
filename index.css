@@ -91,20 +91,20 @@ footer .container{
     header .container {
         flex-direction: row;
         /* align-items: flex-start; */
-        gap: 30px;
+        gap: 40px;
         padding: 10px;
     }
 
-    nav {
+    /* nav {
         flex-direction: column;
         gap: 10px;
         margin-left: 0;
-    }
+    } */
 
     h1 {
         font-size: 36px;
         line-height: 48px;
-        text-align: center;
+        /* text-align: center; */
     }
 
     main .container {
