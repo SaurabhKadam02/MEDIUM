@@ -110,6 +110,7 @@ footer .container{
     main .container {
         flex-direction: column;
         padding: 10px;
+        margin-top: 50px;
     }
 
     main .container .content {
