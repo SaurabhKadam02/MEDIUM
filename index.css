@@ -103,8 +103,8 @@ footer .container{
         align-items: center;
     }
     footer .container {
-        flex-direction: column;
-        text-align: center;
+        flex-direction: row;
+        
         justify-content: center;
         gap: 10px;
     }
