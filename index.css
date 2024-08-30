@@ -133,7 +133,7 @@ footer .container{
 @media (max-width: 480px) {
     h1 {
         font-size: 36px;
-        line-height: 48px;
+        line-height: 84px;
     }
 
     .btn1, .btn2 {
