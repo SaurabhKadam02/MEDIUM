@@ -117,7 +117,9 @@ footer .container{
         flex-direction: column;
         padding: 10px;
     }
-    .img{
+    .img,
+    .hl,
+    .hd{
         display: none;
     }
 }
