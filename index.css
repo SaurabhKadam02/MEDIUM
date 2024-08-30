@@ -89,6 +89,9 @@ footer .container{
         justify-content: space-evenly;
         /* gap: 15px; */
     }
+    main .container{
+        align-items: start;
+    }
     .hl,
     .hd,
     .img {
