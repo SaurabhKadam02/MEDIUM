@@ -89,7 +89,7 @@ footer .container{
     }
     header .container {
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: center;
         /* gap: 15px; */
     }
     /* nav {
@@ -111,7 +111,7 @@ footer .container{
     
 }
 
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     h1 {
         font-size: 36px;
         line-height: 48px;
@@ -127,7 +127,7 @@ footer .container{
     .img {
         display: none;
     }
-}
+} */
 @media screen and (max-width: 728px) {
     .hl,
     .hd,
