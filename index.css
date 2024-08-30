@@ -1,10 +1,10 @@
 @font-face {
-    font-family: super;
-    src: url(font/gt-super-400-normal (1).woff);
+    font-family: Gt_super;
+    src: url(fonts/gt-super-400-normal.woff);
 }
 @font-face {
-    font-family: sons;
-    src: url(font/gt-super-400-normal (1).woff);
+    font-family: sonse;
+    src: url(fonts/sohne-400-normal.woff);
 }
 *{
     margin: 0;
@@ -17,7 +17,7 @@ body,html{
 }
 body{
     background-color: rgba(250, 240, 229, 0.667);
-    font-family: sons;
+    font-family: sonse;
 }
 header .container{
     border-bottom: 1px solid black;
@@ -43,7 +43,7 @@ nav{
     color:white;  
 }
 h1{
-    font-family: super;
+    font-family: Gt_super;
     font-weight:400px;
     line-height: 95px;
     font-size: 102px;
