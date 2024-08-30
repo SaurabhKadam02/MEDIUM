@@ -105,7 +105,7 @@ footer .container{
     main .container {
         margin: 50px 50px 50px 20px;
         flex-direction: column;
-        align-items: start;
+        align-items: end;
         background-color: antiquewhite;
     }
     footer .container {
