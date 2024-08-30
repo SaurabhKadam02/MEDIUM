@@ -106,6 +106,7 @@ footer .container{
         margin: 50px 50px 50px 20px;
         flex-direction: column;
         align-items: start;
+        background-color: antiquewhite;
     }
     footer .container {
         flex-direction: row;
