@@ -12,8 +12,8 @@
     box-sizing: border-box;
 }
 body,html{
-    height: 100%;
-    width: 100%;   
+    /* height: 100vh;
+    width: 100vw;    */
 }
 body{
     background-color: rgba(250, 240, 229, 0.667);
@@ -22,8 +22,8 @@ body{
 header .container{
     border-bottom: 1px solid black;
     display: flex;
-    justify-content: center;
-    gap:600px;
+    justify-content: space-evenly;
+    gap:500px;
     margin-top:25px;
     padding-bottom: 20px;
 }
@@ -60,7 +60,7 @@ main .container .content{
     flex-direction: column;
     gap: 40px;
     /* background-image: url(https://miro.medium.com/v2/format:webp/4*SdjkdS98aKH76I8eD0_qjw.png); */
-    background-size: cover;
+    /* background-size: cover; */
 }
 main .btn2{
     border-radius: 20px;
@@ -72,7 +72,7 @@ main .btn2{
 
 footer .container{
     border-top:1px solid black;
-    border-bottom: 1px solid black;
+    /* border-bottom: 1px solid black; */
     /* margin-top: 60px; */
     display: flex;
     flex-direction: ;
@@ -82,3 +82,7 @@ footer .container{
      padding-top: 30px;
     padding-bottom: 30px; 
 }
+@media screen and (max-width:728px){
+.md.hidden{
+    display: none;
+}}
