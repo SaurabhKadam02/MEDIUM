@@ -121,6 +121,9 @@ footer .container{
         margin-right: 0;
         margin-top: 50px;
     }
+    p{
+        font-size:1rem;
+    }
 
     footer .container {
         flex-direction: row;
